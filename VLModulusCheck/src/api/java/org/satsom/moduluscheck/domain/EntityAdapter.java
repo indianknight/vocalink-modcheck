@@ -20,7 +20,7 @@ public abstract class EntityAdapter implements Entity {
     /**
      * (non-Javadoc).
      *
-     * @see com.clear2pay.bph.opf.domain.Entity#getEntityKey()
+     * @see org.satsom.moduluscheck.domain.Entity#getEntityKey()
      */
     public Serializable getEntityKey() {
         return entityKey;
