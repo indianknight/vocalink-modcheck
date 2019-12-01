@@ -6,3 +6,6 @@ http://www.vocalink.com/media/617404/vocalink_-_validating_account_numbers_v3.00
 where in modulus weights are provided and based upon that an account number is validated applying Mod10, Mod11 and DBLAL check against each range of sortcode. 
 
 This is Java implementation of Vocalink Moduluscheck and fully supports 3.0 specification (latest as of this writing). 
+
+The application can be access from here : https://vocalinkmoduluschecker.herokuapp.com/ 
+It uses React on front end and Spring boot on backend. 
